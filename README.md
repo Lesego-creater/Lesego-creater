@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lesego-creater
+- 👋 Hi, I’m @Lesego-creator
 - 🚀 Mechatronics | AI Enthusiast | Software Developer in the Making
 I'm a third-year Mechatronics Engineering student with a passion for Artificial Intelligence and Software Development. I love blending hardware and software to solve real-world problems and build cool projects.
 
